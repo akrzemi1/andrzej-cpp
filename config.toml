@@ -1,5 +1,6 @@
 baseURL = "https://quirky-gates-d3ad2e.netlify.com/"
 languageCode = "en-us"
-title = "Andrzej's C++ blog"
+title = "Andrzej's C++ blog (2)"
 #theme = "hugo-theme-bootstrap4-blog"
 theme = "hugo-paper"
+contentDir = "content"
